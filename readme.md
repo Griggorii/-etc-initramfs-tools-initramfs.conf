@@ -1,6 +1,6 @@
 # Griggorii@gmail.com
 
-Danger ! Experimental programming my idea FRAMEBUFFER=Y
+Danger ! Experimental programming my idea FRAMEBUFFER=Y backup original initramfs.conf
 
 
 /etc/initramfs-tools  replace initramfs.conf
