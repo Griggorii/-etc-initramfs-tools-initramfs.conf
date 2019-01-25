@@ -1,6 +1,6 @@
 # Griggorii@gmail.com
 
-Danger ! Experimental programming my idea
+Danger ! Experimental programming my idea FRAMEBUFFER=Y
 
 
 /etc/initramfs-tools  replace initramfs.conf
